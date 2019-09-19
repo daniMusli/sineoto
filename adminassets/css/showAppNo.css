@@ -1,0 +1,13 @@
+.event-tooltip {
+    width:150px;
+    background: rgba(0, 0, 0, 0.85);
+    color:#FFF;
+    padding:10px;
+    position:absolute;
+    z-index:10001;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 11px;
+}
